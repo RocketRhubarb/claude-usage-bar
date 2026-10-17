@@ -1,0 +1,1 @@
+{ "name": "usage-bar", "version": "0.1.0", "description": "Slim bar with context fill, 5-hour session usage and weekly usage.", "types": "./types/index.d.ts" }
